@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 plt.style.use('seaborn-v0_8')
 
 # Title with your name (replace [Your Name] as needed)
-st.title('California Housing Data (1990) by [Your Name]')
+st.title('California Housing Data (1990) by [liaoyueyan]')
 
 # Load data
 df = pd.read_csv('housing.csv')
